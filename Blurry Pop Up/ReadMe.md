@@ -1,5 +1,5 @@
-# Blurry background pop up
+#Blurry background pop up
 Use blur effect view from storyboard, and simple animation to simulate a pop up view.
 
-# Development environment
+#Development environment
 XCode 9 beta, iOS 11.
